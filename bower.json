@@ -1,0 +1,20 @@
+{
+  "name": "image-hub",
+  "description": "",
+  "main": "./src/index.html",
+  "authors": [
+    "solloc <matthias@maisch.me>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/solloc/image-hub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
